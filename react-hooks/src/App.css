@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App button{
+  font-size: 15px;
+  margin: 5px;
+}
+
+.App span{
+  font-size: 30px;
+  margin: auto 10px;
+}
+
+.App div{
+  height: 84vh;
+}
+
+.Home{
+  width: 50vw;
+  margin: auto;
+  text-align: left;
+}
+
+.dark{
+  background-color: black;
+  color: white;
+}
+
+.light{
+  background-color: whitesmoke;
+  color: black;
+}
+
+
